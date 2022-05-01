@@ -39,7 +39,7 @@ My page shows the wish list of the user. Hovering on the non-eco-friendly item, 
 
 ## Related Videos
 
-| <img src="http://img.youtube.com/vi/6vgBhVSdAqY/0.jpg" href="https://youtu.be/6vgBhVSdAqY?t=0s"> | <img src="http://img.youtube.com/vi/jOyUi0TUzc4/0.jpg" href="https://youtu.be/jOyUi0TUzc4?t=0s"> |
+| [![High-fidelity Prototyping Video](http://img.youtube.com/vi/6vgBhVSdAqY/0.jpg)](https://youtu.be/6vgBhVSdAqY?t=0s) | [![TWIX IGREEN Promotion Video](http://img.youtube.com/vi/jOyUi0TUzc4/0.jpg)](https://youtu.be/jOyUi0TUzc4?t=0s) |
 |:---:|:---:|
 | High-fidelity Prototyping Video | TWIX IGREEN Promotion Video |
 
