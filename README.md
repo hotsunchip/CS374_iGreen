@@ -1,5 +1,5 @@
 # Igreen
-website link : https://igreen-twix.web.app/
+Website Link : https://igreen-twix.web.app/
 
 **CS374 HCI team TWIX Design Project**
 
@@ -36,3 +36,11 @@ It shows details of each item. It contains heart icon(putting to wish list), sha
 <h3>My Page</h3>
 
 My page shows the wish list of the user. Hovering on the non-eco-friendly item, companion recommends some other eco-friendly items with same function. For eco-friendly item, companion says he likes the product. You can cancel heart in the wish list directly, and the items in the wish list determine the status of companion(such as dancing)
+
+## Related Videos
+
+| <img src="http://img.youtube.com/vi/6vgBhVSdAqY/0.jpg" href="https://youtu.be/6vgBhVSdAqY?t=0s"> | <img src="http://img.youtube.com/vi/jOyUi0TUzc4/0.jpg" href="https://youtu.be/jOyUi0TUzc4?t=0s"> |
+|:---:|:---:|
+| High-fidelity Prototyping Video | TWIX IGREEN Promotion Video |
+
+
